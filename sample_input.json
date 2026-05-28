@@ -1,0 +1,10 @@
+{
+  "season": 2020,
+  "team1": "Mumbai Indians",
+  "team2": "Chennai Super Kings",
+  "venue": "Wankhede Stadium",
+  "match_type": "Normal",
+  "day_or_night": "Night",
+  "team1_xi": ["Player A","Player B","Player C","Player D","Player E","Player F","Player G","Player H","Player I","Player J","Player K"],
+  "team2_xi": ["Player L","Player M","Player N","Player O","Player P","Player Q","Player R","Player S","Player T","Player U","Player V"]
+}

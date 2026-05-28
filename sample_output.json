@@ -1,0 +1,8 @@
+{
+  "predicted_winner": "Mumbai Indians",
+  "team1_win_prob": 0.62,
+  "team2_win_prob": 0.38,
+  "team1_season_success_rate": 0.68,
+  "team2_season_success_rate": 0.45,
+  "model": "calibrated_xgb"
+}
